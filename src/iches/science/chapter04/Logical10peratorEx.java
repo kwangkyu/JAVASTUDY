@@ -1,0 +1,16 @@
+package iches.science.chapter04;
+
+public class Logical10peratorEx {
+
+	public static void main(String[] args) {
+		int number1 = 10;
+		int number2 = 3;
+		
+		
+		boolean result1 = (number1 > number2) && (number1 >5);
+		boolean result2 = (number1 > number2) && (number1 == number2);
+		boolean result1 = (number1 <= number2) && (number1 >5);
+		boolean result1 = (number1 > number2) && (number1 >5);
+	}
+
+}
